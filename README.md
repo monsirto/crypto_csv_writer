@@ -1,6 +1,6 @@
-## Class CryptoCSV: scrapes a given crypto-currency's historical data from coinmarketcap.com
+## Class CryptoCSV: scrapes a given crypto-currency's <b>daily</b> historical data from coinmarketcap.com
 <br><br>
-All available data from April 28th 2013 to the present day will be added into the .csv file
+All available data from <b>April 28th 2013 to the present day</b> will be added into the .csv file
 <br><br>
 When the script finishes, a .csv file will be written to the current working directory:<br>
 &nbsp; &nbsp;bitcoin20180524.csv
