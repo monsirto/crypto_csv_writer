@@ -17,4 +17,4 @@ This was developed on Ubuntu 16.04.4 LTS.
 Example 1:<br>
 <img src="https://github.com/rootVIII/crypto_csv_writer/blob/master/screenshot1.png" alt="example1" height="675" width="950"><hr>
 Example 2:<br>
-<img src="https://github.com/rootVIII/crypto_csv_writer/blob/master/screenshot2.png.png" alt="example2" height="1100" width="950">
+<img src="https://github.com/rootVIII/crypto_csv_writer/blob/master/screenshot2.png" alt="example2" height="1100" width="950">
