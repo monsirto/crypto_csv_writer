@@ -3,7 +3,7 @@
 All available data from April 28th 2013 to the present day will be added into the .csv file
 <br><br>
 When the script finishes, a .csv file will be written to the current working directory:<br>
-&nbsp; &nbsp:bitcoin20180524.csv
+&nbsp; &nbsp;bitcoin20180524.csv
 <br><br>
 Example Usage: python3 crypto_csv_writer.py -c litecoin
 <br><br>
