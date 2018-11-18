@@ -13,7 +13,7 @@ It should run on any system with python3 and requests module installed -- tested
 <br><br>
 This was developed on Ubuntu 16.04.4 LTS.
 <hr>
-<b>Author: James Loye Colley  04AUG2018</b><br><br>
+<b>Author: James Loye Colley  18NOV2018</b><br><br>
 Example 1:<br>
 <img src="https://github.com/rootVIII/crypto_csv_writer/blob/master/screenshot1.png" alt="example1" height="675" width="950"><hr>
 Example 2:<br>
