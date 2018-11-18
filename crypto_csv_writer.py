@@ -6,7 +6,7 @@
 # Data for a given currency will be written to the .csv file
 # from April 28, 2013 to the current date
 # 2018 James Loye Colley
-# usage: python3 -c bitcoin
+# usage: python3 crypto_csv_writer.py -c bitcoin
 #
 import requests
 import argparse
