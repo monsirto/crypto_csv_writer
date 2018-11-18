@@ -81,6 +81,6 @@ if __name__ == "__main__":
     parser.add_argument('-c', '--currency', required=True, help=message)
     currency_arg = vars(parser.parse_args())
     if currency_arg['currency'] not in valid_currenies:
-        print("Please enter a vaild cryptocurrency...")
+        print("Please enter a valid cryptocurrency...")
         exit()
     CryptoCSV(currency_arg['currency']).create_csv()
