@@ -20,7 +20,7 @@ class CryptoCSV:
     def __init__(self, currency_type):
         self.today = datetime.now().strftime("%Y%m%d")
         self.currency = currency_type
-        self.matches = ''
+        self.matches = []
         self.__build_url()
 
     def __build_url(self):
