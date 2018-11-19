@@ -8,7 +8,7 @@ When the script finishes, a .csv file will be written to the current working dir
 <br><br>
 Example Usage:
 <br>
-<code style=">
+<code>
 python3 crypto_csv_writer.py -c litecoin
 </code>
 <br>
