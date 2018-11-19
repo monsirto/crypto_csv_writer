@@ -1,8 +1,3 @@
-<style type="text/css">
-  body {
-    background-color: #336655;
-  }
-</style>
 
 ## Class CryptoCSV: scrapes a given crypto-currency's <b>daily</b> historical data from coinmarketcap.com and writes to .csv - 2013 to present
 <br><br>
