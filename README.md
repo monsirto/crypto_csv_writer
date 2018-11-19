@@ -1,5 +1,6 @@
 ## Class CryptoCSV: scrapes a given crypto-currency's <b>daily</b> historical data from coinmarketcap.com and writes to .csv - 2013 to present
 <br><br>
+<body bgcolor="#E6E6FA">
 All available data from <b>April 28th 2013 to the present day</b> will be added into the .csv file
 <br><br>
 When the script finishes, a .csv file will be written to the current working directory:<br>
@@ -7,7 +8,7 @@ When the script finishes, a .csv file will be written to the current working dir
 <br><br>
 Example Usage:
 <br>
-<code>
+<code style=">
 python3 crypto_csv_writer.py -c litecoin
 </code>
 <br>
@@ -22,3 +23,4 @@ Example 1:<br>
 <img src="https://github.com/rootVIII/crypto_csv_writer/blob/master/screenshot1.png" alt="example1" height="675" width="950"><hr>
 Example 2:<br>
 <img src="https://github.com/rootVIII/crypto_csv_writer/blob/master/screenshot2.png" alt="example2" height="1100" width="900">
+<body>
