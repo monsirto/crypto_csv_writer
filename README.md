@@ -5,10 +5,14 @@ All available data from <b>April 28th 2013 to the present day</b> will be added 
 When the script finishes, a .csv file will be written to the current working directory:<br>
 &nbsp; &nbsp;bitcoin20180524.csv
 <br><br>
-Example Usage: python3 crypto_csv_writer.py -c litecoin
-<br><br>
+Example Usage:
+<br>
+<code>
+python3 crypto_csv_writer.py -c litecoin
+</code>
+<br>
 Simply replace the -c argument with your desired crypto-currency
-<br><br>
+<br>
 It should run on any system with python3 and requests module installed -- tested on Ubuntu
 <br><br>
 This was developed on Ubuntu 16.04.4 LTS.
