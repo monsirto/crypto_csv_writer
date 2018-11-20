@@ -62,7 +62,7 @@ class CryptoCSV:
 
 
 if __name__ == "__main__":
-    valid_currenies = [
+    valid_currencies = [
         "bitcoin", "litecoin", "ripple", "ethereum",
         "bitcoin-cash", "reddcoin", "stellar", "eos",
         "cardano", "monero", "tron", "iota", "dash",
@@ -80,7 +80,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='-c currency name argument')
     parser.add_argument('-c', '--currency', required=True, help=message)
     currency_arg = vars(parser.parse_args())
-    if currency_arg['currency'] not in valid_currenies:
+    if currency_arg['currency'] not in valid_currencies:
         print("Please enter a valid cryptocurrency...")
         exit()
     CryptoCSV(currency_arg['currency']).create_csv()
